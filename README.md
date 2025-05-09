@@ -13,13 +13,8 @@
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 1. [Introduction](introduction.md)
+2. 
 
----
-
-## 📌 Notes
-
-- Please ensure each section in the `/docs` folder is maintained in markdown format.
-- Link updates should reflect your folder structure if it differs.
